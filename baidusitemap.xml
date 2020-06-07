@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://morioxh.github.io/2020/06/07/hello-world/</loc>
+    <loc>http://yoursite.com/2020/06/07/article-title/</loc>
     <lastmod>2020-06-07</lastmod>
   </url>  <url>
-    <loc>https://morioxh.github.io/2020/02/16/sort-algorithms/</loc>
+    <loc>http://yoursite.com/2020/06/07/hello-world/</loc>
     <lastmod>2020-06-07</lastmod>
   </url>  <url>
-    <loc>https://morioxh.github.io/2020/06/07/article-title/</loc>
+    <loc>http://yoursite.com/2020/02/16/sort-algorithms/</loc>
     <lastmod>2020-06-07</lastmod>
   </url>
 </urlset>
