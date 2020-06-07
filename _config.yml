@@ -111,11 +111,12 @@ theme: matery
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repository: https://github.com/Morioxh/morioxh.github.io
-  branch: master
-- type: baidu_url_submitter
-
+-  type: git
+   repository: 
+    github: git@github.com:Morioxh/morioxh.github.io
+    # coding: git@e.coding.net:godweiyang/godweiyang.git
+   branch: master
+-  type: baidu_url_submitter
 
 live2d:
   enable: false
@@ -138,6 +139,7 @@ live2d:
 
 baidu_url_submit:
   count: 100
-  host: 
+  host: https://morioxh.github.io/
   token:  # 填写你的百度统计token，不写也没事
   path: baidu_urls.txt
+  
