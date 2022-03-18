@@ -36,7 +36,7 @@ title: 关于我
 
 ## 相关技能
 
-- 熟悉 Java , C/C++ 语言， 对于C++ STL MFC QT和java中bootstrap SSM ajax等框架有一定学习和了解
+- 熟悉 Java , C/C++ 语言， 对于C++ STL QT编程和java中bootstrap SSM ajax等框架有一定学习和了解
 - 了解C# , Python, HTML, JavaScript等语言,会一点单片机开发
 - 数据库方面能熟悉使用 MySQL
 - 对于基本的数据结构和算法有一定了解
