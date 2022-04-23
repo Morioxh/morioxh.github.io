@@ -158,7 +158,9 @@ PeiCore (
   
 ```
 
+
 ![image-20220422100739138](image-20220422100739138.png)
+
 
 #### PEI Services
 
@@ -201,7 +203,7 @@ Additional PPI : 不为基础定义但需要为其他PPI服务 ,比如InstallPPI
 
 PPI 数据库 包含了 GUID 指针 GUID , PPI 指针 PPI ,  Flag等  通过一些additional PPI访问和操作
 
-````c
+```c
 EFI_STATUSEFIAPI
 PeiFfsFindNextVolume(
 	IN CONST EFI_PEI_SERVICES **PeiServices,
@@ -217,7 +219,7 @@ Search the firmware volumes by index
 @retval EFl_NOT_FOUND	The volume was not found.
 @retval EFl_SUCCESS	The volume was found.
 */
-````
+```
 
 #### PEI Core Dispatcher
 
